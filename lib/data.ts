@@ -1,5 +1,4 @@
 import React from "react";
-import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import newsRoomCMS from "@/public/newsRoomCMS.jpg";
@@ -43,14 +42,6 @@ export const experiencesData = [
 		icon: React.createElement(LuGraduationCap),
 		date: "02/02/2023",
 	},
-	// {
-	// 	title: "Front-End Developer",
-	// 	location: "Orlando, FL",
-	// 	description:
-	// 		"I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
-	// 	icon: React.createElement(CgWorkAlt),
-	// 	date: "2023 - present",
-	// },
 	{
 		title: "Full-Stack Developer",
 		location: "Dhaka, Bangladesh",
