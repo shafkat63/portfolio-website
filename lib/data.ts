@@ -1,6 +1,5 @@
 import React from "react";
 import { FaReact, FaLaravel} from "react-icons/fa";
-import { FaLaravel} from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import newsRoomCMS from "@/public/newsRoomCMS.jpg";
 import SubscriptionBox from "@/public/subscriptionBox.jpg"
