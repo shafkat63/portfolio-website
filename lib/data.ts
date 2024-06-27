@@ -39,21 +39,24 @@ export const experiencesData = [
 		title: "Graduated University",
 		location: "Dhaka, Bangladesh",
 		description:
-			"I graduated with a BSc in Computer Science and Engineering. After that, I began developing projects for various clients."		icon: React.createElement(LuGraduationCap),
+			"I graduated with a BSc in Computer Science and Engineering. After that, I began developing projects for various clients.",		
+		icon: React.createElement(LuGraduationCap),
 		date: "02/02/2023",
 	},
 	{
 		title: "Full-Stack Developer",
 		location: "Dhaka, Bangladesh",
 		description: 
-			"I've worked as a full-stack developer and freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma, and MongoDB."		icon: React.createElement(FaReact),
+			"I've worked as a full-stack developer and freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma, and MongoDB.",		
+		icon: React.createElement(FaReact),
 		date: "2023 - 2024",
 	},
 		{
 		title: "Junior Full-Stack Developer",
 		location: "Dhaka, Bangladesh",
 		description:
-			"I'm currently a full-stack developer at System Resources Limited. My tech stack includes React, Next.js, TypeScript, Tailwind, PHP, Laravel, MySQL, and MongoDB."		icon: React.createElement(FaLaravel),
+			"I'm currently a full-stack developer at System Resources Limited. My tech stack includes React, Next.js, TypeScript, Tailwind, PHP, Laravel, MySQL, and MongoDB.",		
+		icon: React.createElement(FaLaravel),
 		date: "2024 - present",
 	},
 ] as const;
