@@ -101,6 +101,6 @@ export const skillsData = [
 	"Python",
 	"Php",
 	"Laravel",
-	"MySQL"
+	"MySQL",
 	"Framer Motion",
 ] as const;
