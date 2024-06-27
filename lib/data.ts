@@ -1,5 +1,5 @@
 import React from "react";
-import { FaReact } from "react-icons/fa";
+import { FaReact, FaLaravel} from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import newsRoomCMS from "@/public/newsRoomCMS.jpg";
 import SubscriptionBox from "@/public/subscriptionBox.jpg"
@@ -52,7 +52,7 @@ export const experiencesData = [
 		title: "Junior Full-Stack Developer",
 		location: "Dhaka, Bangladesh",
 		description:
-			"I'm currently a full-stack developer at System Resources Limited. My tech stack includes React, Next.js, TypeScript, Tailwind, PHP, Laravel, MySQL, and MongoDB."		icon: React.createElement(FaReact),
+			"I'm currently a full-stack developer at System Resources Limited. My tech stack includes React, Next.js, TypeScript, Tailwind, PHP, Laravel, MySQL, and MongoDB."		icon: React.createElement(FaLaravel),
 		date: "2024 - present",
 	},
 ] as const;
