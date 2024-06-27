@@ -38,7 +38,7 @@ export const experiencesData = [
 		title: "Graduated University",
 		location: "Dhaka, Bangladesh",
 		description:
-			"I graduated my BSc in Computer Science and Engineering. After That I start creating project for some clients.",
+			"I graduated with my BSc in Computer Science and Engineering. After That I start creating project for some clients.",
 		icon: React.createElement(LuGraduationCap),
 		date: "02/02/2023",
 	},
@@ -46,9 +46,17 @@ export const experiencesData = [
 		title: "Full-Stack Developer",
 		location: "Dhaka, Bangladesh",
 		description:
-			"I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+			"I've worked as a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma, and MongoDB.",
 		icon: React.createElement(FaReact),
-		date: "2023 - present",
+		date: "2023 - 2024",
+	},
+		{
+		title: "Junior Full-Stack Developer",
+		location: "Dhaka, Bangladesh",
+		description:
+			"I'm now a full-stack developer working At System Resources Limited. My stack includes React, Next.js, TypeScript, Tailwind, PHP, Laravel, MySQL, and MongoDB.",
+		icon: React.createElement(FaReact),
+		date: "2024 - present",
 	},
 ] as const;
 
@@ -63,7 +71,7 @@ export const projectsData = [
 	{
 		title: "SubscriptionBox",
 		description:
-			"It was e FullProject build with PHP. I build it for Web Technology course. ",
+			"It was a FullProject build with PHP. I build it for Web Technology course. ",
 		tags: ["HTML", "CSS", "JavaScript", "PHP", "Bootstrape"],
 		imageUrl: SubscriptionBox,
 	},
